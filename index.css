@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: gray;
+}
+
+img#opa{
+    width: 150px;
+    border-radius: 10%;
+    margin: 10px 50px 10px 0px;
+}
+
+h1#bao{
+    color: black;
+    font-size: 40px;
+    font-family:'Silkscreen', cursive;
+}
+
+nav{
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+
+}
+
+li a{
+    font-family:'Silkscreen', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: darkgray;
+    width: 100%;
+
+}
+
+li a:hover{
+    color: dimgray;
+}
