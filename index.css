@@ -15,17 +15,17 @@ header{
 img#opa{
     width: 150px;
     border-radius: 20%;
-    margin: 20px 50px 20px 0px;
+    margin: 20px 50px 20px 10px;
 }
 
 h1#bao{
     color: black;
-    font-size: 50px;
+    font-size: 40px;
     font-family:'Silkscreen', cursive;
 }
 
 nav{
-    background-color: black;
+    background-color: black; 
 }
 
 ul{
@@ -37,11 +37,10 @@ ul{
 
 li a{
     font-family:'Silkscreen', cursive;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     color: green;
     width: 100%;
-
 }
 
 li a:hover{
@@ -53,4 +52,15 @@ footer{
     bottom: 0px;
     width: 100%;
     background-color: green;
+    font-family:'Silkscreen', cursive;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    
 }
+
+section#coe{
+    font-size: 30px;
+    font-family:'Silkscreen', cursive;
+}
+
